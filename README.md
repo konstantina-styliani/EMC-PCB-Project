@@ -1,4 +1,4 @@
-# EMC-PCB-Project
+# EMC-PCB-Project in HFSS
 Course: Electromagnetic Compatibility
 
 
